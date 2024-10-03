@@ -1,0 +1,1 @@
+exec Cau6 @month = 4, @year = 2014, @sx = 1
